@@ -2,7 +2,7 @@
 
 Data Set - IMDB 50,000 reviews
 
-LLM - Google Gemini - Accuracy: 95.19%
+LLM - Google Gemini - Accuracy: 95%
 Naive Bayes - Accuracy: 84%
 Logistic Regression - Accuracy: 87%
 Neural Network - Accuracy: 87%
